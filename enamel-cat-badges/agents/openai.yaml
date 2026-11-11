@@ -1,0 +1,6 @@
+interface:
+  display_name: "珐琅猫咪徽章"
+  short_description: "基于现有猫咪珐琅素材，策划节气节日主题、生成自选材质正面并交付透明素材"
+  default_prompt: "使用 $enamel-cat-badges 策划一套新的节气猫咪珐琅徽章，先与我确认主题、材质、是否分级和细节丰富度，再给出完整生图提示词。"
+policy:
+  allow_implicit_invocation: true
