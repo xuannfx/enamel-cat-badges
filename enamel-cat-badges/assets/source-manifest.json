@@ -1,83 +1,138 @@
 [
   {
-    "file": "assets/fronts/01_猫口普查_金_正面.png",
-    "sha256": "31ad6fe6d5c7ca8c720e7354019f8b3d3a586f0136a0511f1736d196f778e705",
-    "source_filename": "01_猫口普查_金_正面.png"
+    "file": "assets/fronts/01_便利贴_素钢_正面.png",
+    "sha256": "8e95ec5a68c1cfe9fd5d03a605713a26444247929707dabdf55b7f411dd7a828",
+    "source_filename": "01_便利贴_素钢_正面.png"
   },
   {
-    "file": "assets/fronts/02_猫口普查_银_正面.png",
-    "sha256": "55b4cafd847996a83d04d8e00b077357fffee7a69330b2934a2c973acb29f286",
-    "source_filename": "02_猫口普查_银_正面.png"
+    "file": "assets/fronts/01_吸猫_素钢_正面.png",
+    "sha256": "33e33144bb5165b166188bb6f48807581eee0532cae49a805c8f9ca72e8a50ff",
+    "source_filename": "01_吸猫_素钢_正面.png"
   },
   {
-    "file": "assets/fronts/03_猫口普查_铜_正面.png",
-    "sha256": "a1651cd1aa0e7c29d6e2b7f6f3893a4d073651924db9f7eb4de88be20fc243bd",
-    "source_filename": "03_猫口普查_铜_正面.png"
+    "file": "assets/fronts/01_点赞_素钢_正面.png",
+    "sha256": "7037c6df2fe895c0d5cd093d646411c4f158d45d3279fe9ee9ffbc173f1459c6",
+    "source_filename": "01_点赞_素钢_正面.png"
+  },
+  {
+    "file": "assets/fronts/01_猫口普查_素钢_正面.png",
+    "sha256": "09c295b9b1cd70b5f35b255b9298ab2730c20876cc209730208769a274f6881a",
+    "source_filename": "01_猫口普查_素钢_正面.png"
+  },
+  {
+    "file": "assets/fronts/01_留影_素钢_正面.png",
+    "sha256": "51dc11338cf6094454df59b6633335438f8815816f386d92747a7d514e233e9a",
+    "source_filename": "01_留影_素钢_正面.png"
+  },
+  {
+    "file": "assets/fronts/02_便利贴_铜_正面.png",
+    "sha256": "b76869619d7e87f8a96e304b733f0f0e99aa4e481c7449e247b0b641b96f4cbc",
+    "source_filename": "02_便利贴_铜_正面.png"
+  },
+  {
+    "file": "assets/fronts/02_吸猫_铜_正面.png",
+    "sha256": "7cbff430934a2b82e069bbbf8d9de862951eb067c2fa91063a23606a43a38078",
+    "source_filename": "02_吸猫_铜_正面.png"
+  },
+  {
+    "file": "assets/fronts/02_点赞_铜_正面.png",
+    "sha256": "5465022b011d315c6f78ef7875bd2ceeb32f1e83b772549290b7259758e1bb68",
+    "source_filename": "02_点赞_铜_正面.png"
+  },
+  {
+    "file": "assets/fronts/02_猫口普查_铜_正面.png",
+    "sha256": "b0d7ee16975aa6105e436c5418193fb1149cef4235b4043dc625c37d91cab2fd",
+    "source_filename": "02_猫口普查_铜_正面.png"
+  },
+  {
+    "file": "assets/fronts/02_留影_铜_正面.png",
+    "sha256": "869d2ce96a163b4cbdc52833a78e5bb053292b435e7f1e00e32a89e1bec9fb52",
+    "source_filename": "02_留影_铜_正面.png"
+  },
+  {
+    "file": "assets/fronts/03_便利贴_银_正面.png",
+    "sha256": "8a84ae429b96e04a0cf78e11727f96b57faecfc18a60c8afb3342f8c01b55480",
+    "source_filename": "03_便利贴_银_正面.png"
+  },
+  {
+    "file": "assets/fronts/03_吸猫_银_正面.png",
+    "sha256": "2e6b4122a452e97dfae96f850de396d3aa02e0a1f520b7b1f87ddd18cdd902b4",
+    "source_filename": "03_吸猫_银_正面.png"
+  },
+  {
+    "file": "assets/fronts/03_点赞_银_正面.png",
+    "sha256": "ff0ee30bb28649b56590f5673fab2c945ddcf8fdf4efb5caf2a53ae33574deae",
+    "source_filename": "03_点赞_银_正面.png"
+  },
+  {
+    "file": "assets/fronts/03_猫口普查_银_正面.png",
+    "sha256": "fa18c036a1433a3d4c85fcc11a1d6d25f793168b1958f05d3192b103e5a2da90",
+    "source_filename": "03_猫口普查_银_正面.png"
+  },
+  {
+    "file": "assets/fronts/03_留影_银_正面.png",
+    "sha256": "da9eaab6d05514c78c5da776c051b421e20fe6cabe9204de2bb3197784a97d8c",
+    "source_filename": "03_留影_银_正面.png"
+  },
+  {
+    "file": "assets/fronts/04_便利贴_金_正面.png",
+    "sha256": "e831922b85e9f3b82cef47c5db983d6562d96fd498f25cb6414fb1d949e9e228",
+    "source_filename": "04_便利贴_金_正面.png"
   },
   {
     "file": "assets/fronts/04_吸猫_金_正面.png",
-    "sha256": "422797026d7437c08056fa37b9b7c7c2d1c5c28b433df6974b2d3d89a35eb618",
+    "sha256": "7e5ec77d99e3e24567a8adc2cd5251e89e03afb5c1f8cd4a24b21ba58cb1c209",
     "source_filename": "04_吸猫_金_正面.png"
   },
   {
-    "file": "assets/fronts/05_吸猫_银_正面.png",
-    "sha256": "d37649f4afc83e5107151eb2c857d692910438ef7ae8bcafb322a64d71f26b37",
-    "source_filename": "05_吸猫_银_正面.png"
+    "file": "assets/fronts/04_点赞_金_正面.png",
+    "sha256": "c950e935fc0fdb87fff61f516497de37bbfd72723255ee7424f573e21e3bf9d5",
+    "source_filename": "04_点赞_金_正面.png"
   },
   {
-    "file": "assets/fronts/06_吸猫_铜_正面.png",
-    "sha256": "601c4805e2b35633d454850a4ca262796345f26453a3ef1cad6c335cc9261a51",
-    "source_filename": "06_吸猫_铜_正面.png"
+    "file": "assets/fronts/04_猫口普查_金_正面.png",
+    "sha256": "b8375df7f98badaeaed4574f1aec3c9be0252ae425e2fbb3dad39ca71e4e54ef",
+    "source_filename": "04_猫口普查_金_正面.png"
   },
   {
-    "file": "assets/fronts/07_留影_金_正面.png",
-    "sha256": "e8532492261784339428576acb3966bbf9e7622f81de23ec91a35dbb9ec5f04d",
-    "source_filename": "07_留影_金_正面.png"
+    "file": "assets/fronts/04_留影_金_正面.png",
+    "sha256": "0506f9d14785f78e5190817594fece2ad77a1691ce59451d1fc245657ebb0a22",
+    "source_filename": "04_留影_金_正面.png"
   },
   {
-    "file": "assets/fronts/08_留影_银_正面.png",
-    "sha256": "c031e007ca5d4fb38481191af7ce9da4ebcb0d2daea75cbc47d0aad5f90b9168",
-    "source_filename": "08_留影_银_正面.png"
+    "file": "assets/fronts/05_便利贴_典藏_正面.png",
+    "sha256": "a9b4ff11a7bb4b261461e4788bf103bfa2265be715c751460315e254c21764e2",
+    "source_filename": "05_便利贴_典藏_正面.png"
   },
   {
-    "file": "assets/fronts/09_留影_铜_正面.png",
-    "sha256": "9cb259a0e328534c6329d9ac4106e2f3b515dc99cfc27d1df292e70691d4608a",
-    "source_filename": "09_留影_铜_正面.png"
+    "file": "assets/fronts/05_吸猫_典藏_正面.png",
+    "sha256": "73ebf0abcf166506e79e6b78d1568f2848da19aa8b4f095bac4494b83ce3f60e",
+    "source_filename": "05_吸猫_典藏_正面.png"
   },
   {
-    "file": "assets/fronts/10_便利贴_金_正面.png",
-    "sha256": "19f7d764885240a8cf2b09fc1bf6c94209d936273e6d7cb04f559ba6f8da8aea",
-    "source_filename": "10_便利贴_金_正面.png"
+    "file": "assets/fronts/05_点赞_典藏_正面.png",
+    "sha256": "d5f72c45cf6805704ac6809bc39e3cc5990689221383d84c723ba65a57819487",
+    "source_filename": "05_点赞_典藏_正面.png"
   },
   {
-    "file": "assets/fronts/11_便利贴_银_正面.png",
-    "sha256": "f666f08d87e962e6e7c3430d96323921a5fc530d0bdff9e7d9b96778f7320e09",
-    "source_filename": "11_便利贴_银_正面.png"
+    "file": "assets/fronts/05_猫口普查_典藏_正面.png",
+    "sha256": "cee944fbd25083467e6b8fc33e328bf9b2be28fabf120fcb915f205b3fbaff02",
+    "source_filename": "05_猫口普查_典藏_正面.png"
   },
   {
-    "file": "assets/fronts/12_便利贴_铜_正面.png",
-    "sha256": "8b4bbf72971d4460ef7c191cfa8b7bbcefa5ead431167dec1ce23d3e9be53e92",
-    "source_filename": "12_便利贴_铜_正面.png"
-  },
-  {
-    "file": "assets/fronts/13_点赞_金_正面.png",
-    "sha256": "3f16de14cf86dfd22afa457a4828e637630c2cd1a349c5fa293b5cd82beaa979",
-    "source_filename": "13_点赞_金_正面.png"
-  },
-  {
-    "file": "assets/fronts/14_点赞_银_正面.png",
-    "sha256": "9d4f42a32e7e88c869ae09a9e52ea8260fb56386ac429b0f48eb17cfa981cbf7",
-    "source_filename": "14_点赞_银_正面.png"
-  },
-  {
-    "file": "assets/fronts/15_点赞_铜_正面.png",
-    "sha256": "43d4d9cb86f2b5ee027e858632e3825f9feddef30df578ca78c1b58aad720124",
-    "source_filename": "15_点赞_铜_正面.png"
+    "file": "assets/fronts/05_留影_典藏_正面.png",
+    "sha256": "7845cb7eacb8f2d54ecbdec52db8002e0748a08bfbcb937f3d9486e8affc0b5f",
+    "source_filename": "05_留影_典藏_正面.png"
   },
   {
     "file": "assets/metals/metal-bronze.png",
     "sha256": "c70c7d9d6014a9fc154772bc4b22c1db7150d53c93d93593eba2777afc97fed1",
     "source_filename": "metal-bronze.png"
+  },
+  {
+    "file": "assets/metals/metal-gold-hammered.png",
+    "sha256": "206c9befff425190a6204ab4ded203f5c674907e8dfb69ded2b8e4235148a72a",
+    "source_filename": "metal-gold-hammered.png"
   },
   {
     "file": "assets/metals/metal-gold.png",
@@ -88,5 +143,10 @@
     "file": "assets/metals/metal-silver.png",
     "sha256": "1d21c66e6a57b9f55a18c24415cee5e52195f9588958979ff24860e53e805243",
     "source_filename": "metal-silver.png"
+  },
+  {
+    "file": "assets/metals/metal-steel.png",
+    "sha256": "eb0032853c9e43028a0a514bbad10533feb93cb893f1affcb06f981fbf43a7b2",
+    "source_filename": "metal-steel.png"
   }
 ]

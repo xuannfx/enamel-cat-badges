@@ -2,27 +2,29 @@
 
 以猫咪与主题的自然互动设计收藏徽章，把节气、节日、日常行为和纪念主题整理成可复用的策划、生图与交付流程。
 
-仓库包含一个可独立安装的 **Codex skill**、15 张基础款正面参考，以及金、银、铜三张背面材质。款式数量、等级结构、材质和细节方向分别选择，支持单枚、平行多款与分级系列。
+仓库包含一个可独立安装的 **Codex skill**、25 张五档正面参考，以及素钢、铜、银、金、典藏五张背面材质。款式数量、等级结构、材质和细节方向分别选择，支持单枚、平行多款与分级系列。
 
 ## 作品预览
 
-下面展示现有基础款参考。新主题可沿用猫咪造型与珐琅质感，重新设计动作、装饰物、构图和工艺精度。
+下面展示当前五档中的典藏参考。新主题可沿用猫咪造型与珐琅质感，重新设计动作、装饰物、构图和工艺精度。
 
 | 猫口普查 | 吸猫 | 留影 |
 | :---: | :---: | :---: |
-| <img src="sampled_compressed/fronts/view_1_front.png" alt="灰虎斑猫与放大镜、地图组成的珐琅徽章" width="240"> | <img src="sampled_compressed/fronts/follow_1_front.png" alt="三花猫抱心休憩的珐琅徽章" width="240"> | <img src="sampled_compressed/fronts/photo_1_front.png" alt="奶牛猫操作相机的珐琅徽章" width="240"> |
+| <img src="sampled_compressed/fronts/05_猫口普查_典藏_正面.png" alt="灰虎斑猫与放大镜、地图组成的珐琅徽章" width="240"> | <img src="sampled_compressed/fronts/05_吸猫_典藏_正面.png" alt="三花猫抱心休憩的珐琅徽章" width="240"> | <img src="sampled_compressed/fronts/05_留影_典藏_正面.png" alt="奶牛猫操作相机的珐琅徽章" width="240"> |
 
 | 便利贴 | 点赞 |
 | :---: | :---: |
-| <img src="sampled_compressed/fronts/comment_1_front.png" alt="橘白猫与便签、铅笔组成的珐琅徽章" width="240"> | <img src="sampled_compressed/fronts/like_1_front.png" alt="白猫抬爪碰触人类拇指的珐琅徽章" width="240"> |
+| <img src="sampled_compressed/fronts/05_便利贴_典藏_正面.png" alt="橘白猫与便签、铅笔组成的珐琅徽章" width="240"> | <img src="sampled_compressed/fronts/05_点赞_典藏_正面.png" alt="白猫抬爪碰触人类拇指的珐琅徽章" width="240"> |
 
-### 等级系列示例
+### 五档示例
 
-点赞系列保持同一只猫与抬爪动作，通过袖口、腕带和蝴蝶结形成递进。该组同时采用金银铜配色；新系列可使用统一材质，另行设计等级差异。
+猫口普查由基础的猫与放大镜，逐步加入地图、草丛和调查装备。典藏增加釉下刻纹与弧面定位石。
 
-| 铜 · 素面袖口 | 银 · 腕带 | 金 · 腕带与蝴蝶结 |
-| :---: | :---: | :---: |
-| <img src="sampled_compressed/fronts/like_3_front.png" alt="点赞铜级：素面袖口" width="220"> | <img src="sampled_compressed/fronts/like_2_front.png" alt="点赞银级：增加腕带" width="220"> | <img src="sampled_compressed/fronts/like_1_front.png" alt="点赞金级：腕带与蝴蝶结" width="220"> |
+| 素钢 | 铜 | 银 | 金 | 典藏 |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="sampled_compressed/fronts/01_猫口普查_素钢_正面.png" alt="猫口普查素钢" width="150"> | <img src="sampled_compressed/fronts/02_猫口普查_铜_正面.png" alt="猫口普查铜" width="150"> | <img src="sampled_compressed/fronts/03_猫口普查_银_正面.png" alt="猫口普查银" width="150"> | <img src="sampled_compressed/fronts/04_猫口普查_金_正面.png" alt="猫口普查金" width="150"> | <img src="sampled_compressed/fronts/05_猫口普查_典藏_正面.png" alt="猫口普查典藏" width="150"> |
+
+全部正面统一1254×1254透明RGBA，主体最长边1054px、包围盒居中；各枚长宽比保持原样。
 
 ## 安装
 
@@ -88,13 +90,13 @@
 
 ### 可复用的背面材质
 
-以下三张为 512 × 512 满幅金属材质。适合对应的拉丝金属方案，使用正面水平镜像后的 Alpha 蒙版裁出背面轮廓。
+现有五张满幅金属材质中，金银铜为512×512，素钢为1254×1254，典藏锤目金源文件为1024×1024。按档位匹配表面，使用正面水平镜像后的 Alpha 蒙版裁出背面轮廓。
 
 | 暖浅金 | 浅银 | 桃铜 |
 | :---: | :---: | :---: |
 | <img src="sampled_compressed/materials/metal-gold.png" alt="暖浅金色细拉丝材质" width="200"> | <img src="sampled_compressed/materials/metal-silver.png" alt="浅银色细拉丝材质" width="200"> | <img src="sampled_compressed/materials/metal-bronze.png" alt="桃铜色细拉丝材质" width="200"> |
 
-其他材质按确认的方案匹配。交付数量按实际计算：**N 张正面＋M 张独立材质图**，同材质可共享一份。
+素钢使用[枪灰色细拉丝材质](sample/materials/metal-steel.png)，典藏使用[疏浅锤目金](sample/materials/metal-gold-hammered.png)。压缩正面为512×512；压缩材质统一为512×512。其他材质按确认的方案匹配。交付数量按实际计算：**N 张正面＋M 张独立材质图**，同材质可共享一份。
 
 ## 仓库结构
 
@@ -106,11 +108,11 @@ enamel-cat-badges/
 │   ├── assets/              # 策划单、内置参考与素材校验清单
 │   └── references/          # 设计体系、提示词、版本流程及素材索引
 ├── sample/
-│   ├── fronts/              # 15 张原版透明正面
-│   └── materials/           # 3 张原版金属材质
+│   ├── fronts/              # 25 张1254×1254透明正面
+│   └── materials/           # 5 张原版金属材质
 ├── sampled_compressed/      # 压缩版素材，与 sample 目录结构一致
-│   ├── fronts/              # 15 张压缩版透明正面
-│   └── materials/           # 3 张压缩版金属材质
+│   ├── fronts/              # 25 张压缩版透明正面
+│   └── materials/           # 5 张压缩版金属材质
 └── README.md
 ```
 
@@ -120,4 +122,4 @@ enamel-cat-badges/
 - [提示词示例](enamel-cat-badges/references/prompts.md)：立春、端午和中秋方案。
 - [版本设计与生成](enamel-cat-badges/references/versions.md)：版本差异、参考图使用及上下文处理。
 - [系列策划单](enamel-cat-badges/assets/series-brief.md)：记录每套需求、构图与确认结果。
-- [素材索引](enamel-cat-badges/references/materials.md)：15 张基础正面与三张可选金属材质。
+- [素材索引](enamel-cat-badges/references/materials.md)：25 张五档正面与五张可选金属材质。
