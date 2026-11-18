@@ -148,5 +148,10 @@
     "file": "assets/metals/metal-steel.png",
     "sha256": "eb0032853c9e43028a0a514bbad10533feb93cb893f1affcb06f981fbf43a7b2",
     "source_filename": "metal-steel.png"
+  },
+  {
+    "file": "assets/fronts/05_留影_典藏_冰蓝金边_正面.png",
+    "sha256": "4dc23ff9e70c9f57c9e5a1ba40942925cd07df9a32aaa228af68d79c6c55384a",
+    "source_filename": "05_留影_典藏_冰蓝金边_正面.png"
   }
 ]

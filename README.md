@@ -2,7 +2,7 @@
 
 以猫咪与主题的自然互动设计收藏徽章，把节气、节日、日常行为和纪念主题整理成可复用的策划、生图与交付流程。
 
-仓库包含一个可独立安装的 **Codex skill**、25 张五档正面参考，以及素钢、铜、银、金、典藏五张背面材质。款式数量、等级结构、材质和细节方向分别选择，支持单枚、平行多款与分级系列。
+仓库包含一个可独立安装的 **Codex skill**、25 张五档正面参考与 1 张冰蓝金边配色，以及素钢、铜、银、金、典藏五张背面材质。款式数量、等级结构、材质和细节方向分别选择，支持单枚、平行多款与分级系列。
 
 ## 作品预览
 
@@ -23,6 +23,10 @@
 | 素钢 | 铜 | 银 | 金 | 典藏 |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="sampled_compressed/fronts/01_猫口普查_素钢_正面.png" alt="猫口普查素钢" width="150"> | <img src="sampled_compressed/fronts/02_猫口普查_铜_正面.png" alt="猫口普查铜" width="150"> | <img src="sampled_compressed/fronts/03_猫口普查_银_正面.png" alt="猫口普查银" width="150"> | <img src="sampled_compressed/fronts/04_猫口普查_金_正面.png" alt="猫口普查金" width="150"> | <img src="sampled_compressed/fronts/05_猫口普查_典藏_正面.png" alt="猫口普查典藏" width="150"> |
+
+新增[留影典藏·冰蓝金边](sample/fronts/05_留影_典藏_冰蓝金边_正面.png)配色，保留原深蓝典藏款。
+
+<img src="sampled_compressed/fronts/05_留影_典藏_冰蓝金边_正面.png" alt="留影典藏冰蓝金边配色" width="240">
 
 全部正面统一1254×1254透明RGBA，主体最长边1054px、包围盒居中；各枚长宽比保持原样。
 
@@ -108,10 +112,10 @@ enamel-cat-badges/
 │   ├── assets/              # 策划单、内置参考与素材校验清单
 │   └── references/          # 设计体系、提示词、版本流程及素材索引
 ├── sample/
-│   ├── fronts/              # 25 张1254×1254透明正面
+│   ├── fronts/              # 26 张1254×1254透明正面
 │   └── materials/           # 5 张原版金属材质
 ├── sampled_compressed/      # 压缩版素材，与 sample 目录结构一致
-│   ├── fronts/              # 25 张压缩版透明正面
+│   ├── fronts/              # 26 张压缩版透明正面
 │   └── materials/           # 5 张压缩版金属材质
 └── README.md
 ```
@@ -122,4 +126,4 @@ enamel-cat-badges/
 - [提示词示例](enamel-cat-badges/references/prompts.md)：立春、端午和中秋方案。
 - [版本设计与生成](enamel-cat-badges/references/versions.md)：版本差异、参考图使用及上下文处理。
 - [系列策划单](enamel-cat-badges/assets/series-brief.md)：记录每套需求、构图与确认结果。
-- [素材索引](enamel-cat-badges/references/materials.md)：25 张五档正面与五张可选金属材质。
+- [素材索引](enamel-cat-badges/references/materials.md)：25 张五档正面、1 张冰蓝金边配色与五张可选金属材质。
