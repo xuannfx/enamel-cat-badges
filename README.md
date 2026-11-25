@@ -127,3 +127,12 @@ enamel-cat-badges/
 - [版本设计与生成](enamel-cat-badges/references/versions.md)：版本差异、参考图使用及上下文处理。
 - [系列策划单](enamel-cat-badges/assets/series-brief.md)：记录每套需求、构图与确认结果。
 - [素材索引](enamel-cat-badges/references/materials.md)：25 张五档正面、1 张冰蓝金边配色与五张可选金属材质。
+
+## 许可
+
+本仓库全部内容（skill、文档、徽章图片与材质）采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans) 许可。
+
+- **非商业使用**：可自由复制、修改和创作衍生作品。请注明来源，一行文字或附上本仓库链接即可。
+- **商业使用**：需另行授权，包括售卖实物徽章、用于商业产品或付费服务等。请通过 [Issue](https://github.com/xuannfx/enamel-cat-badges/issues) 联系。
+
+详见 [LICENSE](LICENSE)。
